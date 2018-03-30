@@ -6,6 +6,6 @@
     estimated_hours: (80 + proposal),
     hourly_rate: 120,
     weeks_to_complete: 12,
-    client_email: 'mike@harriscoding.com',
+    client_email: 'mike@harriscoding.com'
   )
 end
